@@ -3,3 +3,4 @@ script:
         - echo hello
         - echo Travis CI test in .travis.yml
         - ./kadai3_test.sh
+
